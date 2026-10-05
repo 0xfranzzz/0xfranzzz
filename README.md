@@ -1,35 +1,8 @@
-```text
- 
-   ██████  ██   ██ ███████ ██████   █████  ███    ██ ███████ ███████ ███████
-  ██  ████  ██ ██  ██      ██   ██ ██   ██ ████   ██    ███     ███     ███
-  ██ ██ ██   ███   █████   ██████  ███████ ██ ██  ██   ███     ███     ███
-  ████  ██  ██ ██  ██      ██   ██ ██   ██ ██  ██ ██  ███     ███     ███
-   ██████  ██   ██ ██      ██   ██ ██   ██ ██   ████ ███████ ███████ ███████
- 
-  security operations / blue team / network infrastructure
-```
- 
-<a href="https://crti.cl"><code>crti.cl</code></a>&nbsp;
-<a href="mailto:contacto@crti.cl"><code>contacto@crti.cl</code></a>
- 
-```yaml
-# sigma rule: perfil del operador
-title: 0xfranzzz
-status: stable
-description: >
-  Enfoque analítico en seguridad de la información y operaciones IT.
-  Despliegue de infraestructura de red, defensa proactiva y
-  telemetría para monitorear y responder ante incidentes.
-logsource:
-  product: blue_team
-  service: soc
-detection:
-  analisis:       [wireshark, splunk, kali_linux]
-  redes:          [cisco, windows_server, docker]
-  automatizacion: [python, bash, git]
-  condition: analisis and redes and automatizacion
-falsepositives:
-  - ninguno conocido
-level: high
-```
- 
+<img src="assets/hero.svg" width="100%" alt="[0XFRANZZZ_] blue team, security operations, network infra">
+
+<img src="assets/stack.svg" width="49%" alt="Stack: Wireshark, Splunk, Kali Linux, Cisco, Windows Server, Docker, Python, Bash, Git"> <img src="assets/syslog.svg" width="49%" alt="sys_log // feed_en_vivo">
+
+<p align="center">
+  <a href="https://crti.cl"><img src="assets/btn-web.svg" height="40" alt="[ crti.cl ]"></a>
+  <a href="mailto:contacto@crti.cl"><img src="assets/btn-mail.svg" height="40" alt="[ contacto@crti.cl ]"></a>
+</p>
