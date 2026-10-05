@@ -1,43 +1,55 @@
-# 0xfranzzz
-**Security Operations (SOC) | Network Infrastructure | Blue Team**
+<div align="center">
+  <h1>0xfranzzz</h1>
+  <p><b>SECURITY OPERATIONS (SOC) | NETWORK INFRASTRUCTURE | BLUE TEAM</b></p>
+  
+  <a href="https://crti.cl">
+    <img src="https://img.shields.io/badge/SYSTEM_LINK-CRTI.CL-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:contacto@crti.cl">
+    <img src="https://img.shields.io/badge/SECURE_COMM-CONTACTO@CRTI.CL-000000?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-<a href="https://crti.cl">
-  <img src="https://img.shields.io/badge/crti.cl-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-</a>
-<a href="mailto:contacto@crti.cl">
-  <img src="https://img.shields.io/badge/contacto@crti.cl-000000?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
-</a>
+<br>
+
+> **[ RESUMEN OPERATIVO ]**
+> Enfoque analítico en la seguridad de la información y operaciones IT. Especializado en el despliegue de infraestructuras de red, operaciones de defensa proactiva y la optimización de la telemetría para la monitorización y respuesta ante incidentes.
+
+<br>
+
+### /// STACK TECNOLÓGICO
+
+**[ ANÁLISIS Y SEGURIDAD ]**
+<br>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=freebsd&logoColor=white" />
+
+<br><br>
+
+**[ INFRAESTRUCTURA Y REDES ]**
+<br>
+<img src="https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-000000?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br><br>
+
+**[ SCRIPTING Y CONTROL DE VERSIONES ]**
+<br>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+
+<br>
 
 ---
 
-### 🛡️ Resumen Operativo
-
-Enfoque analítico en la seguridad de la información y operaciones IT. Especializado en el despliegue de infraestructuras de red, operaciones de defensa proactiva y la optimización de la telemetría para la monitorización y respuesta ante incidentes.
-
-### 💻 Stack Tecnológico
-
-**Análisis y Seguridad**<br>
-<img src="https://img.shields.io/badge/Wireshark-2C2D30?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Splunk-2C2D30?style=flat-square&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-2C2D30?style=flat-square&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-2C2D30?style=flat-square&logo=freebsd&logoColor=white" />
-
-**Infraestructura y Redes**<br>
-<img src="https://img.shields.io/badge/Cisco-2C2D30?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows_Server-2C2D30?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-2C2D30?style=flat-square&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2C2D30?style=flat-square&logo=docker&logoColor=white" />
-
-**Scripting y Control de Versiones**<br>
-<img src="https://img.shields.io/badge/Python-2C2D30?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-2C2D30?style=flat-square&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-2C2D30?style=flat-square&logo=git&logoColor=white" />
-
----
-
-### 📊 Actividad del Sistema
+### /// TELEMETRÍA DEL SISTEMA
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xfranzzz&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xfranzzz&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xfranzzz&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&show_icons=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xfranzzz&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&stroke=30363d&border=30363d&hide_border=false" width="48%" />
 </div>
